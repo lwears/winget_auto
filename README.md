@@ -1,5 +1,6 @@
 # Winget_auto
 winget json file for installing packages
+
 Can also be used for updating the same packages
 
 ## Requirements
