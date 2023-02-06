@@ -1,6 +1,9 @@
 # Winget_auto
 winget json file for installing packages
 
+## Requirements
+- Winget package manager
+
 ## Disable uac
 Because otherwise you keep getting popups asking for approval to install an app
 
