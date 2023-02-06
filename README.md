@@ -15,20 +15,20 @@ winget import -i .\winget-export.json --accept-package-agreements
 
 ### Apps
 
-"7zip.7zip"
-"PortSwigger.BurpSuite.Professional"
-"Foxit.FoxitReader"
-"Git.Git"
-"Microsoft.WindowsTerminal"
-"Mozilla.Firefox"
-"Insecure.Nmap"
-"Notepad++.Notepad++"
-"Microsoft.VisualStudio.2022.Community-Preview"
-"WinSCP.WinSCP"
-"VSCodium.VSCodium"
-"PuTTY.PuTTY"
-"Microsoft.VCRedist.2015+.x86"
-"WiresharkFoundation.Wireshark"
-"Microsoft.PowerShell"
-"Microsoft.VCRedist.2008.x86"
-"Microsoft.VCRedist.2015+.x64"
+- 7zip
+- PortSwigger.BurpSuite.Professional
+- FoxitReader
+- Git
+- Microsoft.WindowsTerminal
+- Mozilla.Firefox
+- Insecure.Nmap
+- Notepad++
+- Microsoft.VisualStudio.2022.Community-Preview
+- WinSCP
+- VSCodium
+- PuTTY
+- Microsoft.VCRedist.2015+.x86
+- WiresharkFoundation.Wireshark
+- PowerShell V7
+- Microsoft.VCRedist.2008.x86
+- Microsoft.VCRedist.2015+.x64
