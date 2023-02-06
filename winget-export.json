@@ -56,6 +56,9 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
+				},
+				{
+					"PackageIdentifier" : "Python"
 				}
 			],
 			"SourceDetails" : 
@@ -71,6 +74,9 @@
 			[
 				{
 					"PackageIdentifier" : "9P7KNL5RWT25"
+				},
+				{
+					"PackageIdentifier" : "9PJPW5LDXLZ5"
 				}
 			],
 			"SourceDetails" : 

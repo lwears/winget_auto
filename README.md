@@ -1,5 +1,6 @@
 # Winget_auto
 winget json file for installing packages
+Can also be used for updating the same packages
 
 ## Requirements
 - Winget package manager
@@ -35,3 +36,5 @@ winget import -i .\winget-export.json --accept-package-agreements
 - PowerShell V7
 - Microsoft.VCRedist.2008.x86
 - Microsoft.VCRedist.2015+.x64
+- Python
+- Sysinternals
