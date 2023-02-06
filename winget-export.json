@@ -19,12 +19,6 @@
 					"PackageIdentifier" : "Git.Git"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.Edge"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal"
 				},
 				{
@@ -35,9 +29,6 @@
 				},
 				{
 					"PackageIdentifier" : "Notepad++.Notepad++"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.OneDrive"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudio.2022.Community-Preview"
@@ -62,9 +53,6 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2008.x86"
-				},
-				{
-					"PackageIdentifier" : "CodeSector.TeraCopy"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
